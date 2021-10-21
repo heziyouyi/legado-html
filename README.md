@@ -12,7 +12,7 @@ Legado / 开源阅读
 <a href="https://gedoor.github.io">gedoor.github.io</a> / <a href="https://www.legado.top/">legado.top</a>
 </div>
 
-[![](https://img.shields.io/badge/-Contents:-696969.svg)](#contents) [![](https://img.shields.io/badge/-Function-F5F5F5.svg)](#功能-) [![](https://img.shields.io/badge/-Download-F5F5F5.svg)](#Download / 下载-) [![](https://img.shields.io/badge/-Community-F5F5F5.svg)](#community-) [![](https://img.shields.io/badge/-API-F5F5F5.svg)](#API-) [![](https://img.shields.io/badge/-Other-F5F5F5.svg)](#other-) [![](https://img.shields.io/badge/-Grateful-F5F5F5.svg)](#Grateful-) [![](https://img.shields.io/badge/-Interface-F5F5F5.svg)](#interface-)
+[![](https://img.shields.io/badge/-Contents:-696969.svg)](#contents) [![](https://img.shields.io/badge/-Function-F5F5F5.svg)](#功能-) [![](https://img.shields.io/badge/-Download-F5F5F5.svg)](#Download 下载-) [![](https://img.shields.io/badge/-Community-F5F5F5.svg)](#community-) [![](https://img.shields.io/badge/-API-F5F5F5.svg)](#API-) [![](https://img.shields.io/badge/-Other-F5F5F5.svg)](#other-) [![](https://img.shields.io/badge/-Grateful-F5F5F5.svg)](#Grateful-) [![](https://img.shields.io/badge/-Interface-F5F5F5.svg)](#interface-)
 
 >新用户？
 >
@@ -35,7 +35,7 @@ Legado / 开源阅读
     <img src="https://img.shields.io/badge/-返回顶部-orange.svg" alt="#" align="right">
 </a>
 
-# Download / 下载 [![](https://img.shields.io/badge/-Download-F5F5F5.svg)](#download-)
+# Download 下载 [![](https://img.shields.io/badge/-Download-F5F5F5.svg)](#download-)
 #### Android / 安卓
 * [Releases](https://github.com/gedoor/legado/releases/latest)
 * [Google play - $1.99](https://play.google.com/store/apps/details?id=io.legado.play.release)
