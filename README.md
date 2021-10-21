@@ -20,7 +20,7 @@ Legado / 开源阅读
 >看看 [官方帮助文档](https://www.yuque.com/legado/wiki)，也许里面就有你要的答案。
 
 
-# Function / 主要功能  [![](https://img.shields.io/badge/-Function-F5F5F5.svg)](#功能-)
+# Function [![](https://img.shields.io/badge/-Function-F5F5F5.svg)](#功能-)
 1.  自定义书源，自己设置规则，抓取网页数据，规则简单易懂，软件内有规则说明。
 2.  列表书架，网格书架自由切换。
 3.  书源规则支持搜索及发现，所有找书看书功能全部自定义，找书更方便。
